@@ -71,7 +71,7 @@ venv.bak/
 
 
 
-
+.idea/
 
 # mypy
 .mypy_cache/
