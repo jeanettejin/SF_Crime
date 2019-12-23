@@ -77,10 +77,10 @@ venv.bak/
 .mypy_cache/
 
 
-
+*.csv
 *.pkl
 *.pickle
 
 *.jpg
 *.html
-
+*.zip
